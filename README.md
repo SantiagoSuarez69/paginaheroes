@@ -3,6 +3,9 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 # paginaheroes
+
+-Pagina de Trello indicando todas las actividades del Taller en DONE: https://trello.com/c/l7eL9U6J/2-activades-por-hacer-taller-1
+
 -Título del super héroe: Son 3: Thanos , El Tribunal Viviente y Knull.
 
 -Descripción del proyecto: Proyecto inspirado en una pagina web de comics , Con material informativo , videos y imagenes. Se observa informacion , videos sobre acontecimientos , historias de personajes y links a otras paginas que dan mas informacion relacionada con el tema
